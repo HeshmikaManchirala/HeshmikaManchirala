@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HeshmikaManchirala
-- 👀 I’m interested in JAVA
+- 👋 Hi, I’m HeshmikaManchirala
+- 👀 I’m interested in learning JAVA
 - 🌱 I’m currently learning DEVOPS
-- 💞️ I’m looking to collaborate on XYZ
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me mheshmika14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
